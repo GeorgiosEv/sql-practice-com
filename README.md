@@ -11,6 +11,15 @@ The difficulty levels for both databases are the same:
 - Medium
 - Hard
 
+Numbers of exercises per database:
+| Difficulty⬇️ / Database➡️| hospital.db | northwind.db |
+| -------------------------| ----------- | ------------ |
+| Easy                     | 16          | 9            |
+| Medium                   | 26          | 4            |
+| Difficult                | 10          | 2            |
+
+** I am not entirely sure whether the exercises increase over time (with new ones being added), but I will update the existing repository, should new exercises are added.
+
 What you will find in the repository is our attempts to solve the puzzles in a way that works and makes sense (rationally). We do realise that there are alternatives (which, we will provide in some cases) or simpler ways and we welcome you to leave comments or code improvements.
 
 We would definitely appreciate your (constructive) feedback and further contribution.
