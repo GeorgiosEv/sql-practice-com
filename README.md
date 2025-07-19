@@ -22,7 +22,7 @@ Numbers of exercises per database:
 
 What you will find in the repository is our attempts to solve the puzzles in a way that works and makes sense (rationally). We do realise that there are alternatives (which, we will provide in some cases) or simpler ways and we welcome you to leave comments or code improvements. 
 
-The language and the syntax used was basic SQL (with some intermediate combinations) in a way that would work universally (as along the way, we have realised there are some compatibility issues with the use of certain functions in the online environment).
+The language and the syntax used was **basic SQL** (with some intermediate combinations) in a way that would work universally (as along the way, we have realised there are some compatibility issues with the use of certain functions in the online environment).
 
 We would definitely appreciate your (constructive) feedback and further contribution.
 
