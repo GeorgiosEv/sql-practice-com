@@ -125,4 +125,4 @@ SELECT
 FROM doctors AS doc
 JOIN admissions AS adm ON doc.doctor_id = adm.attending_doctor_id
 GROUP BY doc.doctor_id, selected_year
-order by doc.doctor_id, doc.doctor_name, selected_year;
+order by doc.doctor_id, doctor_name, selected_year;
