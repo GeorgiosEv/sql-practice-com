@@ -1,2 +1,3 @@
 # Force .sql files to be counted as SQL
 *.sql linguist-language=SQL
+*.sql linguist-detectable=true
