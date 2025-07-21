@@ -1,6 +1,6 @@
 # 💻📝📊🗄️ SQL-practice.com - Practice your SQL skills
 
-In an attempt to brush up our SQL querying skills, my friend and colleague Vasileios Tsakalos (https://github.com/Tsaqeal) suggested https://www.sql-practice.com.
+To further enhance our SQL & problem-solving skills, my friend and colleague Vasileios Tsakalos (https://github.com/Tsaqeal) suggested https://www.sql-practice.com.
 
 The sandbox environment utilises two different databases:
 1. **hospitals.db**
