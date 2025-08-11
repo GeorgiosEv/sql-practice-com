@@ -20,7 +20,7 @@ Numbers of exercises per database:
 
 - The platform is using **SQLite**. Hence, you might find that some of the functions do not work as expected.
 - I am not entirely sure whether the exercises increase over time (with new ones being added), but I will update the existing repository, should new exercises are added.
-- You can add questions (with the respective **WORKING** solutions) using the following form: https://www.sql-practice.com/question_form/
+- You can add questions (also providing their respective **WORKING** solutions) using the following form: https://www.sql-practice.com/question_form/
 
 What you will find in the repository is our attempts to solve the puzzles in a way that works and makes sense (rationally). We do realise that there are alternatives (which, we will provide in some cases) or simpler ways and we welcome you to leave comments or code improvements. 
 
